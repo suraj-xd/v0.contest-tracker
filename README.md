@@ -2,6 +2,8 @@
 
 A modern, feature-rich contest tracking application for competitive programmers, built in response to [Priyansh Agarwal's (TLE Eliminators) weekend project challenge](https://www.linkedin.com/posts/priyansh-agarwal_here-is-a-mini-project-you-can-make-over-activity-7306362529453064192-m-Ce/).
 
+![OG Image](./public/og-image.png)
+
 🚀 **Live Demo**: [https://tle-contest-tracker-v0.vercel.app/](https://tle-contest-tracker-v0.vercel.app/)
 
 ## 🎯 Project Origin
